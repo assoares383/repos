@@ -8,8 +8,8 @@
 
 This project was developed at the [List Repository Github] with the following technologies:
 
-- [Node.js][nodejs]
-- [Yarn][yarn]
+- [Node.js](https://nodejs.org/en/)
+- [Yarn](https://yarnpkg.com/)
 - [ReactJS](https://reactjs.org/)
 - [styled-components](https://www.styled-components.com/)
 - [axios](https://github.com/axios/axios)
