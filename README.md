@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Full Stack Instagram Clone" src="../public/github.svg" style="display: block;margin: auto;width: 180px;" />
+    <img alt="List Repository Github" src="../public/github.svg" style="display: block;margin: auto;width: 180px;" />
     <br>
     List Repository Github <br />
 </h1>
